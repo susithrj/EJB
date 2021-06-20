@@ -1,0 +1,3 @@
+JMS Queue -JNDI name : JMSDemoSusith
+JMS Destination : JmsDemoDest
+
